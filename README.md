@@ -24,7 +24,10 @@ sudo apt install bpftrace
 ```
 
 
-### Usage：./ICMP_DNS_Sentinel.sh << Target IP >>
+### Usage：
+```bash
+./ICMP_DNS_Sentinel.sh << Target IP >>
+```
 
 ICMP tunnel：
 
@@ -50,7 +53,10 @@ sudo apt update
 sudo apt install bpftrace
 ```
 
-### Usage：./ICMP_DNS_Sentinel.sh <<目标IP>> 
+### Usage：
+```bash
+./ICMP_DNS_Sentinel.sh <<目标IP>>
+```
 
 ICMP隧道： 
 
