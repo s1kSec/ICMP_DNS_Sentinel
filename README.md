@@ -31,11 +31,13 @@ sudo apt install bpftrace
 
 ICMP tunnel：
 
-<img width="1331" height="1024" alt="image" src="https://github.com/user-attachments/assets/43c6e9a3-9f51-4f43-b248-c4a709ba07b3" />
+<img width="1834" height="1360" alt="image" src="https://github.com/user-attachments/assets/f0d50757-0b62-4419-aab1-627f4b7bd53b" />
+
 
 DNS Tunnel simulation：
 
-<img width="1150" height="918" alt="image" src="https://github.com/user-attachments/assets/540bb9f4-3766-4cd0-a44f-8a446e02b10b" />
+<img width="1834" height="1360" alt="image" src="https://github.com/user-attachments/assets/a8d2aba6-ecb8-42de-b317-9639db2d3b69" />
+
 
 ---
 
@@ -60,8 +62,8 @@ sudo apt install bpftrace
 
 ICMP隧道： 
 
-<img width="1331" height="1024" alt="image" src="https://github.com/user-attachments/assets/43c6e9a3-9f51-4f43-b248-c4a709ba07b3" />
+<img width="1834" height="1360" alt="image" src="https://github.com/user-attachments/assets/f0d50757-0b62-4419-aab1-627f4b7bd53b" />
 
 DNS隧道模拟：
 
-<img width="1150" height="918" alt="image" src="https://github.com/user-attachments/assets/540bb9f4-3766-4cd0-a44f-8a446e02b10b" />
+<img width="1834" height="1360" alt="image" src="https://github.com/user-attachments/assets/a8d2aba6-ecb8-42de-b317-9639db2d3b69" />
