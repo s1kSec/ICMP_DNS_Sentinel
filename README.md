@@ -16,7 +16,15 @@ https://mp.weixin.qq.com/s/nyRkB_3lgsjZtMNwNuCpoA
 The essence is also the integration and optimization of the above code, without skbuff library, which avoids the operation of library function in complex environment.
 Code transparent and backdoor-free operation
 
-Usage：./ICMP_DNS_Sentinel.sh << Target IP >>
+### Dependency
+You need to install bpftrace.
+```bash
+sudo apt update
+sudo apt install bpftrace
+```
+
+
+### Usage：./ICMP_DNS_Sentinel.sh << Target IP >>
 
 ICMP tunnel：
 
@@ -35,7 +43,14 @@ ICMP_DNS_Sentinel是一个针对ICMP/DNS隧道的检测工具，例如ICMP报文
 本项目参考了：NOP Team的文章 本质也是对上文代码的整合优化，无需skbuff库，避免了复杂环境下的导库函数操作
 代码透明无后门操作
 
-Usage：./ICMP_DNS_Sentinel.sh <<目标IP>> 
+### 依赖项
+您需要安装bpftrace
+```bash
+sudo apt update
+sudo apt install bpftrace
+```
+
+### Usage：./ICMP_DNS_Sentinel.sh <<目标IP>> 
 
 ICMP隧道： 
 
