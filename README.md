@@ -8,7 +8,8 @@ The essence is also the integration and optimization of the above code, without 
 Code transparent and backdoor-free operation
 
 Usage：./ICMP_DNS_Sentinel.sh <<Target IP>>
-ICMP隧道：
+
+ICMP tunnel：
 <img width="1331" height="1024" alt="image" src="https://github.com/user-attachments/assets/43c6e9a3-9f51-4f43-b248-c4a709ba07b3" />
-DNS隧道模拟：
+DNS Tunnel simulation：
 <img width="1150" height="918" alt="image" src="https://github.com/user-attachments/assets/540bb9f4-3766-4cd0-a44f-8a446e02b10b" />
